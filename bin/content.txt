@@ -1,0 +1,3 @@
+zabbix_agentd64.exe
+zabbix_agentd32.exe
+zabbix_agentd.conf
